@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "signup.name",
+    "type": "java.lang.String",
+    "description": "Signup person name."
+  },
+  {
+    "name": "signup.email",
+    "type": "java.lang.String",
+    "description": "Signup email address."
+  },
+  {
+    "name": "event.eventName",
+    "type": "java.lang.String",
+    "description": "Event name/title."
+  },
+  {
+    "name": "event.eventAddress",
+    "type": "java.lang.String",
+    "description": "Event location/address."
+  },
+  {
+    "name": "event.startTime",
+    "type": "java.time.LocalTime",
+    "description": "Event start time in HH:mm (e.g., 17:00)."
+  },
+  {
+    "name": "event.endTime",
+    "type": "java.time.LocalTime",
+    "description": "Event end time in HH:mm (e.g., 23:30)."
+  },
+  {
+    "name": "event.endTime",
+    "type": "java.lang.String",
+    "description": "A description for 'event.endTime'"
+  }
+]}
