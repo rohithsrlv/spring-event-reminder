@@ -3,6 +3,6 @@ package com.srlv;
 public class Test {
 
 	public void display() {
-		System.out.println("Hello Alien");
+		System.out.println("Hello Alien, check out for the event details ");
 	}
 }
